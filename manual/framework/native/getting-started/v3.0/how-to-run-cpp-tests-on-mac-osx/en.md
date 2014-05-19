@@ -3,8 +3,8 @@
 
 ## Environmental Requirements
 
-* Mac OS X 10.8 or above(the version this article used is 10.9)
-* Xcode 4.6.2 or above(the version this article used is 5.0.1.On the <https://developer.apple.com/downloads/index.action>, you can find different versions of Xcode)
+* Mac OS X 10.8 or later(the version this article used is 10.9)
+* Xcode 4.6.2 or later(the version this article used is 5.0.1.On the <https://developer.apple.com/downloads/index.action>, you can find different versions of Xcode)
 
 ## Run
 
